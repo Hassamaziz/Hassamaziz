@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hassamaziz 👋</h1>
+<h1 align="center">Hi, I'm Hassam Aziz 👋</h1>
 <h3 align="center">🚀 Web Developer, Programmer & UI/UX Designer</h3>
 
 <p align="center">I craft modern web experiences with clean code and creative design.</p>
