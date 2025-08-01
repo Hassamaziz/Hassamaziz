@@ -28,7 +28,7 @@
 
 ## 🌟 Featured Projects
 
-- 🔥 [**Zentry**](https://github.com/Hassamaziz/award-winning): A clone of an award-winning website with stunning design.
+- 🔥 [**Zentry**](https://github.com/Hassamaziz/award-winning): A clone of an award-winning website with stunning design using GSAP animation.
 - 🎬 [**Movie App**](https://github.com/Hassamaziz/Movie-App): Browse and discover movies with sleek UI and real-time data.
 - 🧠 [**Nueu View**](https://github.com/Hassamaziz/nueu-view): AI-powered tool transforming manual data input into digital.
 
