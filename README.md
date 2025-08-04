@@ -84,4 +84,4 @@
 
 ---
 
-_⭐ Thanks for stopping by! Don’t forget to check out my pinned projects!_
+_⭐ Thanks for stopping by! Don’t forget to check out my projects!_
