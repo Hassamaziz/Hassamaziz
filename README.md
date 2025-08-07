@@ -55,11 +55,14 @@
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hassam-aziz-dev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://hassam-portfolio-mu.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=profile" alt="Portfolio">
-</a>
+  <a href="https://www.linkedin.com/in/hassam-aziz-dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://hassam-portfolio-mu.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=profile" alt="Portfolio">
+  </a>
 </p>
+
 
 ---
 
